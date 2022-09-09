@@ -19,7 +19,7 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
 <details>
-<summary>Items</summary>
+<summary><h4>Items<4></summary>
   
 - None at the moment
 
