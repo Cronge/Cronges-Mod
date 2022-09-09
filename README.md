@@ -2,11 +2,11 @@
 
 <!-- Title -->
   
-# Cronge's Mod 1.19
+# Cronge's Mod 
 </div>
 <!-- Description -->
 
-A mod that I created to learn modding!
+Cronge's Mod is mod that I created to learn modding!
 
 I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn how to make one! <br/>
 I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_).
@@ -14,6 +14,8 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 <!-- *I had another mod, but I messed with Git and lost all my work. So I decided to restart.* -->
 
 </div>
+
+Cronge's Mod 1.19
 
 ## Getting Started
 
