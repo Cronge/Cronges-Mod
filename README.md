@@ -13,7 +13,7 @@ Also, subscribe to [Kaupenjoe](https://www.youtube.com/c/TKaupenjoe)!
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
 ### Installation
-*I do not plan on releasing this mod yet, but I will probably release it in the future. And if I do, below are the steps necessary to install the mod.*
+*I do not plan on releasing the mod yet, but I will probably release it in the future.*
 
 
 
