@@ -24,7 +24,6 @@ Well, this mod doesn't really have any features—I'm just following along with 
 *None at the moment*
 
 </details>
-
 <details>
 <summary> 
   
@@ -35,7 +34,6 @@ Well, this mod doesn't really have any features—I'm just following along with 
 *None at the moment*
   
 </details>
-
 <details>
 <summary> 
   
