@@ -15,6 +15,12 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 
 ## Getting Started
 
+### Installation
+
+*I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
+
+</div>
+
 ### Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
@@ -30,9 +36,5 @@ Well, this mod doesn't really have any features—I'm just following along with 
   
 - None at the moment
   
-### Installation
 
-*I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
-
-</div>
 
