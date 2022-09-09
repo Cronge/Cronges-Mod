@@ -24,6 +24,20 @@ Well, this mod doesn't really have any features—I'm just following along with 
 - *None at the moment*
 
 </details>
+
+<details>
+<summary>Blocks</summary>
+  
+- *None at the moment*
+
+</details>
+
+<details>
+<summary>Custom Entities</summary>
+  
+- *None at the moment*
+
+</details>
   
 ### Installation
 
