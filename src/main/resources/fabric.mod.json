@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "crongesmod",
+  "version": "${version}",
+
+  "name": "Cronge's Mod",
+  "description": "A mod that I created to learn modding. I watch Kaupenjoe's tutorials!",
+  "authors": [
+    "ImCronge"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/crongesmod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cronge.crongesmod.CrongesMod"
+    ],
+    "client": [
+      "net.cronge.crongesmod.CrongesModClient"
+    ]
+  },
+  "mixins": [
+    "crongesmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
