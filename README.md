@@ -19,7 +19,6 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 
 ### Installation
 
-#### Requirements
 **IMPORTANT**: *I do not plan on releasing Cronge's Mod yet, but I might consider releasing it in the future.*
 
 Cronge's Mod requires both [Fabric Loader](https://fabricmc.net/use/installer) and [Fabric API](https://modrinth.com/mod/fabric-api) to work. <br/>
