@@ -40,10 +40,10 @@ Well, this mod doesn't really have any features—I'm just following along with 
 #### Custom Enities
   
 </summary>
-  
+<details>
 *None at the moment*
   
-<details>
+
 
 ### Installation
 
