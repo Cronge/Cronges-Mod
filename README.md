@@ -12,16 +12,13 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 *I had another mod, but I messed with Git and lost all my work. So I decided to restart.*
 
 </div>
-
 ## Getting Started
 
 ### Installation
 
 *I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
 
-</div>
-
-### Features
+## Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
 #### Items
@@ -35,6 +32,6 @@ Well, this mod doesn't really have any features—I'm just following along with 
 #### Custom Entities
   
 - None at the moment
-  
+</div>
 
 
