@@ -1,6 +1,8 @@
 <div align= "center">
   
 <h1>Cronge's Mod 1.19</h1>
+
+A mod that I created to learn modding and have fun with it!
   
 </div>
 
