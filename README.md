@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Title and Description -->
+<!-- Title -->
   
 # Cronge's Mod 1.19
+  
 </div>
-<p>
+<!-- Description -->
 A mod that I created to learn modding!
 
 I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn how to make one! <br/>
@@ -23,6 +24,7 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 ## Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
+<!-- Dropdowns -->
 <details>
 <summary>Items</summary>
   
