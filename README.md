@@ -11,7 +11,6 @@ Built with [Fabric](https://fabricmc.net).
   <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19?color=blue">
   
 <!-- lines -->
-<a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/code-frequency" target="_blank">
         <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
 </div>
 
