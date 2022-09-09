@@ -1,4 +1,4 @@
-<div align="true">
+<div align="center">
 
 <!-- Title and Description -->
   
