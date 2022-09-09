@@ -9,9 +9,13 @@ Built with [Fabric](https://fabricmc.net).
 <!-- license -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE" target="_blank">
   <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19?color=blue">
+</a>
   
 <!-- lines -->
-        <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
+<a href="https://github.com/Moulberry/NotEnoughUpdates/graphs/code-frequency" target="_blank">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
+</a>  
+                
 </div>
 
 <!-- Description -->
