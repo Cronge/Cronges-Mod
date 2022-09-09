@@ -37,11 +37,14 @@ Well, this mod doesn't really have any features—I'm just following along with 
 </details>
 
 <details>
-<summary> Custom Entities </summary>
+<summary> 
+  
+#### Custom Enities
+  
+</summary>
   
 *None at the moment*
-  
-</details>
+
 ### Installation
 
 *I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
