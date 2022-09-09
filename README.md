@@ -27,7 +27,7 @@ A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to i
 *Note: It is also recomended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and other fabric performance mods together with Cronge's Mod to enhance your playing experience.*
 
 ## Features
-Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
+This mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
 <!-- Dropdowns -->
 <details>
