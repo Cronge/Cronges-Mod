@@ -52,7 +52,7 @@ Well, this mod doesn't really have any features—I'm just following along with 
 </details>
 
 ## License
-This project is licensed under the MIT License. See [LICENSE]() for more information.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE) for more information.
 
 </div>
 
