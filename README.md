@@ -24,15 +24,16 @@ Well, this mod doesn't really have any features—I'm just following along with 
 
 #### Items
 
-- None at the moment
+- 
 
 #### Blocks
   
-- None at the moment
+- 
 
 #### Custom Entities
   
-- None at the moment
+-
+
 </div>
 
 
