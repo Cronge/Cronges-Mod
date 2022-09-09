@@ -4,6 +4,7 @@
   
 # Cronge's Mod 
 Cronge's Mod is mod that I created to learn the craft of Minecraft Modding!
+Built with [Fabric](https://fabricmc.net)
 </div>
 <!-- Description -->
 
@@ -16,17 +17,13 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 
 ## Getting Started
 
-</div>
-
 ### Installation
 
 #### Requirements
-Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer/) and [Fabric API](https://modrinth.com/mod/fabric-api) to work.
-A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to install them
+Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer) and [Fabric API](https://modrinth.com/mod/fabric-api) to work.
+A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to install Fabric Loader and Fabirc API.
 
 *I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
-
-</div>
 
 ## Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
