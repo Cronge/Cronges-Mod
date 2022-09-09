@@ -6,7 +6,9 @@
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
 Built with [Fabric](https://fabricmc.net).
   
-[![Cronge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cronge&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://youtube.com">
+  <img alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
   
 </div>
 
