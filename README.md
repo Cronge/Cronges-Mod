@@ -24,17 +24,18 @@ Well, this mod doesn't really have any features—I'm just following along with 
 
 <details>
 <summary>Items</summary>
-
 - 
+</details>
+
 <details>
-
-#### Blocks
-  
+<summary>Blocks</summary>
 - 
+</details>
 
-#### Custom Entities
-  
--
+<details>
+<summary>Custom Entities</summary>
+- 
+</details>
 
 </div>
 
