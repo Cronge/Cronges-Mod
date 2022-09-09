@@ -19,21 +19,21 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
 <details>
-<summary><h4>Items</summary>
+<summary>Items</summary>
   
 - None at the moment
 
 </details>
 
 <details>
-<summary><h4>Blocks</summary>
+<summary>Blocks</summary>
   
 - None at the moment
 
 </details>
 
 <details>
-<summary><h4>Custom Entities</summary>
+<summary>Custom Entities</summary>
   
 - None at the moment
 
