@@ -4,7 +4,7 @@
   
 # Cronge's Mod 
 Cronge's Mod is mod that I created to learn the craft of Minecraft Modding! <br/>
-Built with [Fabric](https://fabricmc.net)
+Built with [Fabric](https://fabricmc.net).
 </div>
 <!-- Description -->
 
