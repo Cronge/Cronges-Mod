@@ -6,7 +6,7 @@
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
 Built with [Fabric](https://fabricmc.net).
   
-[License](https://img.shields.io/apm/l/Cronges-Mod-1.19)
+![APM](https://img.shields.io/apm/l/Cronges-Mod-1.19)
   
 </div>
 
