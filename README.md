@@ -21,7 +21,7 @@ Also, subscribe to [Kaupenjoe](https://www.youtube.com/c/TKaupenjoe)!
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
 ### Installation
-*I do not plan on releasing the mod yet, but I will probably release it in the future.*
+*I do not plan on releasing the mod yet, but I might release it in the future.*
 
 </div>
 
