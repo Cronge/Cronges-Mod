@@ -7,7 +7,7 @@ Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <b
 Built with [Fabric](https://fabricmc.net).
   
 <a href="https://youtube.com">
-  <img alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img alt="Youtube" width="22px" src="https://img.shields.io/apm/l/Cronges-Mod-1.19" />
 </a>
   
 </div>
