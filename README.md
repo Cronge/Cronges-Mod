@@ -20,8 +20,6 @@ Well, this mod doesn't really have any features—I'm just following along with 
 
 <details>
 <summary> Items </summary>
-<br>
-  
 *None at the moment*
 
 </details>
