@@ -1,9 +1,9 @@
 ## Cronges-Mod-1.19
 <br/>
 I've always been fascinated by mods like:
-<p>
+<br/>
 JEI
-<p>
+<br/>
 RLCRAFT
-<p>
+<br/>
 IDK
