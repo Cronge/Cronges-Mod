@@ -17,10 +17,9 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 ## Getting Started
 
 ### Installation
+Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer/) and [Fabric API](https://modrinth.com/mod/fabric-api) to work.
 
 *I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
-
-Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer/) and [Fabric API](https://modrinth.com/mod/fabric-api) to work.
 
 ## Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
