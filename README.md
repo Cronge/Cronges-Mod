@@ -18,8 +18,11 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 ### Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
-#### Items
+<details>
+<summary>Items</summary>
+<br>
 *None at the moment*
+</details>
 
 #### Blocks
 *None at the moment*
