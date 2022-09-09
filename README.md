@@ -20,7 +20,7 @@ Well, this mod doesn't really have any features—I'm just following along with 
 
 ### Installation
 
-*I do not plan on releasing the mod yet, but I might plan on releasing it in the future.*
+*I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
 
 </div>
 
