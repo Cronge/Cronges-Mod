@@ -5,7 +5,7 @@
 # Cronge's Mod 
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
 Built with [Fabric](https://fabricmc.net).
- [![Cronge's GitHub stats](https://github-readme-stats.vercel.app/api?username=cronge7)](https://github.com/anuraghazra/github-readme-stats)
+ [![Cronge's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cronge)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!-- Description -->
