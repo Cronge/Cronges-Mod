@@ -11,8 +11,6 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 
 *I had another mod, but I messed with Git and lost all my work. So I decided to restart.*
 
-Also, subscribe to [Kaupenjoe](https://www.youtube.com/c/TKaupenjoe)!
-
 </div>
 
 ## Getting Started
@@ -21,7 +19,8 @@ Also, subscribe to [Kaupenjoe](https://www.youtube.com/c/TKaupenjoe)!
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
 
 ### Installation
-*I do not plan on releasing the mod yet, but I might release it in the future.*
+
+*I do not plan on releasing the mod yet, but I might plan on releasing it in the future.*
 
 </div>
 
