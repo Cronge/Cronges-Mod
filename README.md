@@ -1,4 +1,4 @@
-<div align="down">
+<div>
   
 <h1>Cronge's Mod 1.19</h1>
   
@@ -13,6 +13,8 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 
 Also, subscribe to [Kaupenjoe](https://www.youtube.com/c/TKaupenjoe)!
 
+</div>
+
 ## Getting Started
 
 ### Features
@@ -21,5 +23,5 @@ Well, this mod doesn't really have any features—I'm just following along with 
 ### Installation
 *I do not plan on releasing the mod yet, but I will probably release it in the future.*
 
-
+</div>
 
