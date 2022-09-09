@@ -5,34 +5,9 @@
 # Cronge's Mod 
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
 Built with [Fabric](https://fabricmc.net).
+ [![Cronge's GitHub stats](https://github-readme-stats.vercel.app/api?username=cronge7)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div align="center">
-    <!-- release -->
-    <a href="1.0.0" target="_blank">
-        <img src="https://img.shields.io/github/v/release/Moulberry/NotEnoughUpdates-REPO?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
-    </a>
-    <!-- lines -->
-    <a href="https://github.com/NotEnoughUpdates/NotEnoughUpdates/graphs/code-frequency" target="_blank">
-        <img src="https://img.shields.io/tokei/lines/github/NotEnoughUpdates/NotEnoughUpdates?label=lines&color=informational&logo=GitHub" alt="lines">
-    </a>
-    <!-- license -->
-    <a href="./COPYING.LESSER" target="_blank">
-        <img src="https://img.shields.io/github/license/NotEnoughUpdates/NotEnoughUpdates?color=informational" alt="license">
-    </a>
-    <!-- contributors -->
-    <a href="https://github.com/NotEnoughUpdates/NotEnoughUpdates/graphs/contributors" target="_blank">
-        <img src="https://img.shields.io/github/contributors/NotEnoughUpdates/NotEnoughUpdates?color=informational&logo=GitHub" alt="contributors">
-    </a>
-    <!-- discord -->
-    <a href="https://discord.gg/moulberry" target="_blank">
-        <img src="https://img.shields.io/discord/516977525906341928?label=discord&color=informational&logo=Discord&logoColor=FFFFFF" alt="discord">
-    </a>
-    <!-- downloads -->
-    <a href="https://github.com/Moulberry/NotEnoughUpdates/releases" target="_blank">
-        <img src="https://img.shields.io/github/downloads/Moulberry/NotEnoughUpdates/total?label=downloads&color=informational&logo=GitHub" alt="downloads">
-    </a>
-</div>
 <!-- Description -->
 
 I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn the basics and make a mod. <br/>
