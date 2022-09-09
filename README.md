@@ -8,7 +8,7 @@ Built with [Fabric](https://fabricmc.net).
   
 <!-- license -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE" target="_blank">
-  <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19?color=green">
+  <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19">
 </a>
   
 <!-- lines -->
