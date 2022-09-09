@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 # Cronge's Mod 1.19
   
