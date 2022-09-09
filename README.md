@@ -6,10 +6,11 @@
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
 Built with [Fabric](https://fabricmc.net).
   
-<--! license -->
+<!-- license -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE" target="_blank">
   <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19?color=blue">
-<--! lines -->
+  
+<!-- lines -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/code-frequency" target="_blank">
         <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
   
