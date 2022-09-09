@@ -12,6 +12,7 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 *I had another mod, but I messed with Git and lost all my work. So I decided to restart.*
 
 </div>
+
 ## Getting Started
 
 ### Installation
