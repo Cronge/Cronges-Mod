@@ -3,7 +3,6 @@
 <!-- Title -->
   
 # Cronge's Mod 1.19
-  
 </div>
 <!-- Description -->
 A mod that I created to learn modding!
