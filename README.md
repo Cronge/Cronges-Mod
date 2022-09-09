@@ -20,16 +20,28 @@ Well, this mod doesn't really have any features—I'm just following along with 
 
 <details>
 <summary> Items </summary>
+  
 *None at the moment*
 
 </details>
 
-#### Blocks
+<details>
+<summary> 
+  
+#### Blocks 
+  
+</summary>
+  
 *None at the moment*
+  
+</details>
 
-#### Custom Entities
+<details>
+<summary> Custom Entities </summary>
+  
 *None at the moment*
-
+  
+</details>
 ### Installation
 
 *I do not plan on releasing the mod yet, but I might consider releasing it in the future.*
