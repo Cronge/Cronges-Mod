@@ -25,7 +25,7 @@ A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to i
 
 *Note: It is also recomended to install [Mod Menu](https://modrinth.com/mod/modmenu) and other fabric performance mods with Cronge's Mod to enhance your playing experience.*
 
-IMPORTANT: *I do not plan on releasing Cronge's Mod yet, but I might consider releasing it in the future.*
+**IMPORTANT**: *I do not plan on releasing Cronge's Mod yet, but I might consider releasing it in the future.*
 
 ## Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
