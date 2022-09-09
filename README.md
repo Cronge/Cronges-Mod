@@ -3,6 +3,7 @@
 <h1>Cronge's Mod 1.19</h1>
   
 A mod that I created to learn modding!
+
 </div>
 
 I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn how to make one! <br/>
@@ -16,6 +17,12 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 
 ### Features
 Well, this mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials.
+
+#### Items
+
+#### Blocks
+
+#### Custom Entities
 
 ### Installation
 
