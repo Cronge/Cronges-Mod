@@ -1,4 +1,4 @@
-<div align="right">
+<div align="down">
   
 <h1>Cronge's Mod 1.19</h1>
   
