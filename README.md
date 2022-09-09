@@ -26,14 +26,14 @@ Well, this mod doesn't really have any features—I'm just following along with 
 </details>
 
 <details>
-<summary>Blocks</summary>
+<summary><h4>Blocks<h4></summary>
   
 - None at the moment
 
 </details>
 
 <details>
-<summary>Custom Entities</summary>
+<summary><h4>Custom Entities<h4></summary>
   
 - None at the moment
 
