@@ -51,6 +51,9 @@ Well, this mod doesn't really have any features—I'm just following along with 
   
 </details>
 
+## License
+This project is licensed under the MIT License. See `LICENSE.TXT` for more information.
+
 </div>
 
 
