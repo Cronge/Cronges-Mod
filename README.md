@@ -26,7 +26,7 @@ Built with [Fabric](https://fabricmc.net).
 <!-- Description -->
 
 I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn the basics and make a mod. <br/>
-I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_).
+I am currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_).
 
 <!-- *I had another mod, but I messed with Git and lost all my work. So I decided to restart.* -->
 
