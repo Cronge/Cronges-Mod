@@ -1,10 +1,10 @@
 <div align= "center">
   
-<h1>Meteor Rejects</h1>
+<h1>Cronge's Mod 1.19</h1>
 
 I've always been fascinated by mods, so I decided to learn how to make one! <br/>
 I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_).
-
+</div>
 *I had another mod, but I messed up with Git and lost all my work. So I decided to restart.*
 
 Also, subscribe to [Kaupenjoe](https://www.youtube.com/c/TKaupenjoe)!
