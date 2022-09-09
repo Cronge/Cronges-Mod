@@ -1,4 +1,6 @@
 <div>
+
+<!-- Title and Description -->
   
 # Cronge's Mod 1.19
   
@@ -25,21 +27,21 @@ Well, this mod doesn't really have any features—I'm just following along with 
 <details>
 <summary>Items</summary>
   
-- 
+<!-- TODO: Add Items here -->
   
 </details>
 
 <details>
 <summary>Blocks</summary>
   
-- 
+<!-- TODO: Add Blocks here -->
   
 </details>
 
 <details>
 <summary>Custom Entities</summary>
   
-- 
+<!-- TODO: Add Custom Enitities here -->
   
 </details>
 
