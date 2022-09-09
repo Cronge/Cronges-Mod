@@ -26,7 +26,6 @@ Well, this mod doesn't really have any features—I'm just following along with 
 <summary>Items</summary>
 
 - 
-  
 <details>
 
 #### Blocks
