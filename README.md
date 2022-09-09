@@ -14,8 +14,6 @@ I'm currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](htt
 
 </div>
 
-Cronge's Mod 1.19
-
 ## Getting Started
 
 ### Installation
