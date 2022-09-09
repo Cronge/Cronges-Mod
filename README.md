@@ -21,21 +21,21 @@ Well, this mod doesn't really have any features—I'm just following along with 
 <details>
 <summary>Items</summary>
   
-- *None at the moment*
+- None at the moment
 
 </details>
 
 <details>
 <summary>Blocks</summary>
   
-- *None at the moment*
+- None at the moment
 
 </details>
 
 <details>
 <summary>Custom Entities</summary>
   
-- *None at the moment*
+- None at the moment
 
 </details>
   
