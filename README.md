@@ -4,7 +4,7 @@
   
 # Cronge's Mod 1.19
 </div>
-
+<p>
 A mod that I created to learn modding!
 
 I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn how to make one! <br/>
