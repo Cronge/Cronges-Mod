@@ -53,7 +53,7 @@ Cronge's Mod doesn't really have any features. It does add a collection of Items
   - **Weapons**
     - Dummy Sword
 
-  - **Special**
+  - **Custom**
     - Eight Ball
     - Tooltip Stick
   
