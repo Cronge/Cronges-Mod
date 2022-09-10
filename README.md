@@ -37,7 +37,7 @@ I am currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](ht
 **IMPORTANT**: *I do not plan on releasing Cronge's Mod yet, but I might consider releasing it in the future.*
 
 Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer) and [Fabric API](https://github.com/FabricMC/fabric). <br/>
-A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to install Fabric Loader and Fabirc API respectively.
+A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to install Fabric Loader and Fabric API respectively.
 
 *Note: It is also recomended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
 
@@ -46,28 +46,29 @@ Cronge's Mod doesn't really have any features. It does add a collection of Items
 
 <!-- Dropdowns -->
 <details>
-<summary><h3>Items</h3></summary>
+<summary>Items</summary>
 
-  - Weapons
+### Items
+
+  - **Weapons**
     - Dummy Sword
 
-  - Special
+  - **Special**
     - Eight Ball
     - Tooltip Stick
   
 </details>
 
 <details>
-<summary><h3>Blocks</h3></summary>
-  
-<!-- TODO: Add Blocks here -->
+<summary>Blocks</summary>
+
   
 </details>
 
 <details>
-<summary><h3>Custom Entities</h3></summary>
+<summary>Custom Entities</summary>
   
-<!-- TODO: Add Custom Enitities here -->
+
   
 </details>
 
