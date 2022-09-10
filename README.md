@@ -50,10 +50,10 @@ Cronge's Mod doesn't really have any features. It does add a collection of Items
 <details>
 <summary>Items</summary>
   
-<details>
-<summary>Weapons</summary>
-Dummy Sword
-</details>
+  <details>
+  <summary>Weapons</summary>
+  Dummy Sword
+  </details>
   
 </details>
 
