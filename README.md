@@ -49,11 +49,10 @@ Cronge's Mod doesn't really have any features. It does add a collection of Items
 <!-- Dropdowns -->
 <details>
 <summary>Items</summary>
+
+  - Weapons
   
-  <details>
-  <summary>Weapons</summary>
-  Dummy Sword
-  </details>
+    - Dummy Sword
   
 </details>
 
