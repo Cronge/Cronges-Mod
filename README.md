@@ -44,13 +44,16 @@ A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to i
 *Note: It is also recomended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
 
 ## Features
-Cronge's Mod doesn't really have any features—I'm just following along with Kaupenjoe as I watch his tutorials(but I do learn something!).
+Cronge's Mod doesn't really have any features. It does add a collection of Items, Blocks, and Entities.
 
 <!-- Dropdowns -->
 <details>
 <summary>Items</summary>
   
-<!-- TODO: Add Items here -->
+<details>
+<summary>Weapons</summary>
+Dummy Sword
+</details>
   
 </details>
 
