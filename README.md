@@ -48,7 +48,7 @@ Cronge's Mod doesn't really have any features. It does add a collection of Items
 
 <!-- Dropdowns -->
 <details>
-<summary>Items</summary>
+<summary><h4>Items<h4></summary>
 
   - Weapons
   
@@ -57,14 +57,14 @@ Cronge's Mod doesn't really have any features. It does add a collection of Items
 </details>
 
 <details>
-<summary>Blocks</summary>
+<summary><h4>Blocks<h4></summary>
   
 <!-- TODO: Add Blocks here -->
   
 </details>
 
 <details>
-<summary>Custom Entities</summary>
+<summary><h4>Custom Entities<h4></summary>
   
 <!-- TODO: Add Custom Enitities here -->
   
