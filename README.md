@@ -25,7 +25,7 @@ Built with [Fabric](https://fabricmc.net).
 
 <!-- Description -->
 
-I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn the basics and make a mod. <br/>
+I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn the basics and make a one. <br/>
 I am currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_).
 
 <div>
@@ -42,7 +42,7 @@ A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to i
 *Note: It is also recomended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
 
 ## Features
-Cronge's Mod doesn't really have any features. It does add a collection of Items, Blocks, and Entities.
+Cronge's Mod doesn't really have any features. It adds a collection of Items, Blocks, and Entities though.
 
 <!-- Dropdowns -->
 <details>
