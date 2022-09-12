@@ -1,0 +1,19 @@
+{
+
+  "item.crongesmod.eight_ball": "Eight Ball",
+  "item.crongesmod.eight_ball.tooltip": "§7Right-click to get a random number!",
+
+  "item.crongesmod.tooltip_stick": "Tooltip Stick",
+  "item.crongesmod.tooltip_stick.tooltip_1": "§8§o\"Why are we still here? Just to suffer?\"",
+  "item.crongesmod.tooltip_stick.tooltip_2": "§7A useless stick.",
+
+  "item.crongesmod.dummy_sword": "Dummy Sword",
+  "item.crongesmod.dummy_sword.tooltip_1": "§7Use this to train.",
+  "item.crongesmod.dummy_sword.tooltip_2": "§8§oAlso known as a practice sword/waster.",
+  "item.crongesmod.dummy_sword.tooltip_3": "§8§ohttps://en.wikipedia.org/wiki/Waster.",
+
+  "block.crongesmod.jump_block": "Jump Block",
+  "block.crongesmod.jump_block.tooltip_1": "§7Gain §aJump Boost§7 for §a10§7 seconds ",
+  "block.crongesmod.jump_block.tooltip_2": "§7when you step on this block."
+
+}
