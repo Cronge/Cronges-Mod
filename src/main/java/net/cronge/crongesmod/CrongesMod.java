@@ -13,9 +13,8 @@ public class CrongesMod implements ModInitializer {
     public void onInitialize() {
 
         ModItems.registerModItems();
-
         ModBlocks.registerModBlocks();
 
-        CrongesMod.LOGGER.info("Hello Fabric World!");
+        CrongesMod.LOGGER.info("Hello!");
     }
 }
