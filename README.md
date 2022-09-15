@@ -66,7 +66,7 @@ Cronge's Mod doesn't really have any features. It adds a collection of Items, Bl
 </details>
 
 <details>
-<summary>=Entities</summary>
+<summary>Entities</summary>
   
 
   
