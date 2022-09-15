@@ -20,7 +20,7 @@ public class DummySwordItemMaterial implements ToolMaterial {
 
     @Override
     public float getAttackDamage() {
-        return 0.000001f;
+        return 0.1f;
     }
 
     @Override

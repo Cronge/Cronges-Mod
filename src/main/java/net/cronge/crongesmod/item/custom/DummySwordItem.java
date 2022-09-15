@@ -8,7 +8,6 @@ public class DummySwordItem extends SwordItem {
     public DummySwordItem(ToolMaterial toolMaterial, int attackDamage, float attackSpeed, Settings settings) {
         super(toolMaterial, attackDamage, attackSpeed, settings);
     }
-
     @Override
     public boolean hasGlint(ItemStack stack) {
         return true;
