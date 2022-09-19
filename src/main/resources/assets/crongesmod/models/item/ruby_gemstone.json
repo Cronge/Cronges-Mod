@@ -1,6 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "crongesmod:item/eight_ball"
+    "layer0": "crongesmod:item/ruby_gemstone"
+
   }
 }

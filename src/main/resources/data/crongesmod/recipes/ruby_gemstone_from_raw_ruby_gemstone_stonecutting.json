@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "crongesmod:raw_ruby_gemstone"
+  },
+  "result": "crongesmod:ruby_gemstone"
+}

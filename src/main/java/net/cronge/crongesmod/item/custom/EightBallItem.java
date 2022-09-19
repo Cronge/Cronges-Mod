@@ -5,6 +5,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
+import net.minecraft.util.Formatting;
 import net.minecraft.util.Hand;
 import net.minecraft.util.TypedActionResult;
 import net.minecraft.util.math.random.Random;
@@ -36,7 +37,7 @@ public class EightBallItem extends Item {
     }
 
     private void outputRandomNumber(PlayerEntity player) {
-        player.sendMessage(Text.literal("The number is " + getRandomNumber()));
+        player.sendMessage(Text.translatable("item.crongesmod.eight_ball.onUse", getRandomNumber()).formatted(Formatting.ITALIC));
     }
 
     private int getRandomNumber() {

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "crongesmod:ruby_block",
+    "crongesmod:ruby_ore",
+    "crongesmod:deepslate_ruby_ore"
+  ]
+}
