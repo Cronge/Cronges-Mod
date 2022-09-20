@@ -39,7 +39,7 @@ I am currently watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](ht
 Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer) and [Fabric API](https://github.com/FabricMC/fabric). <br/>
 A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to install Fabric Loader and Fabric API.
 
-*Note: It is also recomended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
+*Note: It is also recommended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
 
 ## Features
 Cronge's Mod doesn't really have any features. It adds a collection of Items, Blocks, and Entities.
