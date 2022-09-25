@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "crongesmod",
-  "version": "${version}",
+  "version": "2.1.0",
 
   "name": "Cronge's Mod",
-  "description": "A mod that I created to learn modding. I watch Kaupenjoe's tutorials!",
+  "description": "A mod that I created to learn modding.!",
   "authors": [
     "ImCronge"
   ],
