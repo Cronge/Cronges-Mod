@@ -2,7 +2,8 @@
 
   "item.crongesmod.eight_ball": "Eight Ball",
   "item.crongesmod.eight_ball.tooltip": "§7Right-click to get a random number!",
-  "item.crongesmod.eight_ball.onUse": "§oYou roll the ball... You get the number %s!",
+  "message.crongesmod.eight_ball.onUse": "You rolled %s!",
+  "message.crongesmod.eight_ball.onUse_when_8": "You rolled %s! §lNice§r...",
 
   "item.crongesmod.ruby_gemstone": "Ruby Gemstone",
   "item.crongesmod.raw_ruby_gemstone": "Raw Ruby Gemstone",
@@ -24,6 +25,8 @@
   "block.crongesmod.ruby_block": "Block of Ruby",
   "block.crongesmod.ruby_ore": "Ruby Ore",
   "block.crongesmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "message.crongesmod.hit_animal_entity": "§o%s hit an animal!",
 
   "itemGroup.crongesmod.gemstones": "Gemstones",
   "itemGroup.crongesmod.custom": "Custom"
