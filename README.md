@@ -20,7 +20,7 @@ Built with [Fabric](https://fabricmc.net).
 
 <!-- Top language  -->
 <a href="https://example.com" target="_blank">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cronge/Cronges-Mod?color=orange">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cronge/Cronges-Mod?color=61a2d1">
 </a>  
   
 <!-- Contributors -->
