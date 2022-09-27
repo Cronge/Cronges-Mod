@@ -1,6 +1,9 @@
 <div align="center">
 
 <!-- Title -->
+<a href="https://github.com/Cronge/Cronges-Mod-1.19/src/main/resources/assets/rejects/icon.png" target="_blank">
+  <img alt="Logo" src="/src/main/resources/assets/rejects/icon.png">
+</a>  
   
 # Cronge's Mod 
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
