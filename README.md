@@ -9,22 +9,22 @@ Built with [Fabric](https://fabricmc.net).
 
 <!-- License -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE" target="_blank">
-  <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod">
+  <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19">
 </a>
   
 <!-- Lines of code -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/code-frequency" target="_blank">
-  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
 </a>
   
 <!-- Top language  -->
 <a href="https://example.com" target="_blank">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cronge/Cronges-Mod">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cronge/Cronges-Mod-1.19">
 </a>
   
 <!-- Contributors -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/contributors" target="_blank">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cronge/Cronges-Mod">  
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cronge/Cronges-Mod-1.19">  
 </a>
                 
 </div>
