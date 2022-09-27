@@ -17,7 +17,7 @@ Built with [Fabric](https://fabricmc.net).
 </a>
 
 <!-- Spaghetti code-->
-<a href=""https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java">
+<a href="https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java" target="_blank">
   <img alt="Spaghetti code" src="https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java">
 </a>  
   
