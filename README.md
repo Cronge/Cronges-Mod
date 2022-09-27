@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Title -->
-<a href="https://github.com/Cronge/Cronges-Mod-1.19/src/main/resources/assets/rejects/icon.png" target="_blank">
-  <img alt="Logo" src="/src/main/resources/assets/rejects/icon.png">
+<a href="https:github.com/Cronge/Cronges-Mod\src\main\resources\assets\crongesmod\icon.png" target="_blank">
+  <img alt="Logo" src="https:github.com/Cronge/Cronges-Mod\src\main\resources\assets\crongesmod\icon.png" width="40%">
 </a>  
   
 # Cronge's Mod 
