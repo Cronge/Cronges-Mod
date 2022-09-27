@@ -9,12 +9,12 @@ Built with [Fabric](https://fabricmc.net).
 
 <!-- License -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE" target="_blank">
-  <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19">
+  <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod">
 </a>
   
 <!-- Lines of code -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/code-frequency" target="_blank">
-  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
+  <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod">
 </a>
   
 <!-- Top language  -->
@@ -24,7 +24,7 @@ Built with [Fabric](https://fabricmc.net).
   
 <!-- Contributors -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/contributors" target="_blank">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cronge/Cronges-Mod-1.19">  
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cronge/Cronges-Mod">  
 </a>
                 
 </div>
