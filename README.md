@@ -18,7 +18,7 @@ Built with [Fabric](https://fabricmc.net).
 
 <!-- Spaghetti code-->
 <a href="https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java" target="_blank">
-  <img alt="Spaghetti code" src="https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cronge/Cronges-Mod">
 </a>  
   
 <!-- Contributors -->
