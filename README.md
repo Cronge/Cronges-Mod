@@ -6,17 +6,22 @@
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
 Built with [Fabric](https://fabricmc.net).
   
-<!-- license -->
+<!-- Fancy stuff -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE" target="_blank">
   <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19">
 </a>
   
-<!-- lines -->
+<!-- Lines of code-->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/code-frequency" target="_blank">
   <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
 </a>
+
+<!-- Spaghetti code-->
+<a href=""https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java">
+  <img alt="Spaghetti code" src="https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java">
+</a>  
   
-<!-- contributors -->
+<!-- Contributors -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/contributors" target="_blank">
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Cronge/Cronges-Mod-1.19">  
 </a>
