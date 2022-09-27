@@ -5,20 +5,22 @@
 # Cronge's Mod 
 Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
 Built with [Fabric](https://fabricmc.net).
-  
+
 <!-- Fancy stuff -->
+
+<!-- License -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE" target="_blank">
   <img alt="License" src="https://img.shields.io/github/license/Cronge/Cronges-Mod-1.19">
 </a>
   
-<!-- Lines of code-->
+<!-- Lines of code -->
 <a href="https://github.com/Cronge/Cronges-Mod-1.19/graphs/code-frequency" target="_blank">
   <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/Cronge/Cronges-Mod-1.19">
 </a>
 
-<!-- Spaghetti code-->
-<a href="https://img.shields.io/badge/spaghetti%20code-yes-success?logo=java" target="_blank">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cronge/Cronges-Mod">
+<!-- Top language  -->
+<a href="https://example.com" target="_blank">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cronge/Cronges-Mod?color=orange">
 </a>  
   
 <!-- Contributors -->
@@ -47,7 +49,7 @@ A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to i
 *Note: It is also recommended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
 
 ## Features
-Cronge's Mod doesn't really have any features. It adds a collection of Items, Blocks, and Entities.
+Cronge's Mod features a collection of Items, Blocks, and Entities. 
 
 <!-- Dropdowns -->
 <details>
