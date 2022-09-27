@@ -2,7 +2,7 @@
 
 <!-- Title -->
 <a href="https://github.com/Cronge/Cronges-Mod/blob/master/src/main/resources/assets/crongesmod/icon.png" target="_blank">
-  <img alt="Logo" src="https://github.com/Cronge/Cronges-Mod/blob/master/src/main/resources/assets/crongesmod/icon.png" width="40%">
+  <img alt="Logo" src="https://github.com/Cronge/Cronges-Mod/blob/master/src/main/resources/assets/crongesmod/icon.png" width="20%">
 </a>  
   
 # Cronge's Mod 
