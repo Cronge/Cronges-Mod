@@ -88,6 +88,9 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
   
 </details>
 
+## Contribution
+Feel free to make forks and PRs!
+
 ## License
 This project is licensed under the MIT License. See [LICENSE](https://github.com/Cronge/Cronges-Mod-1.19/blob/master/LICENSE) for more information.
 
