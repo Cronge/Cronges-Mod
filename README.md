@@ -59,7 +59,7 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
   - **Weapons**
     - Dummy Sword
 
-  - **Custom**
+  - **Other**
     - Eight Ball
     - Tooltip Stick
   
@@ -67,14 +67,19 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
 
 <details>
 <summary>Blocks</summary>
-
+ 
+### Blocks
+  
+  - Jump Block
+  - 
   
 </details>
 
 <details>
 <summary>Entities</summary>
   
-
+### Entities
+  - Currently none 
   
 </details>
 
