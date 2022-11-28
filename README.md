@@ -88,7 +88,6 @@ Currently none
   
 </details>
 
-### Miscellaneous
 - Message in chat when a player hits an animal entity
 
 ## Contributing
