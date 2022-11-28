@@ -88,15 +88,8 @@ Currently none
   
 </details>
 <p> —— <p/>
-It also has some other things:
-  
-<details>
-<summary>Miscellaneous</summary> 
-  
-### Miscellaneous
+It also has some other features:
 - Message in chat when a player hits an animal entity
-  
-</details>
 
 ## Contributing
 Feel free to make forks and PRs!
