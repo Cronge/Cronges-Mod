@@ -87,8 +87,14 @@ Cronge's Mod features a collection of items, blocks, and entities.
 Currently none 
   
 </details>
-
+  
+<details>
+<summary>Miscellaneous</summary> 
+  
+### Miscellaneous
 - Message in chat when a player hits an animal entity
+  
+</details>
 
 ## Contributing
 Feel free to make forks and PRs!
