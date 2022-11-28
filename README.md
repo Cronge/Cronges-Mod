@@ -88,7 +88,8 @@ Currently none
   
 </details>
 <p> —— <p/>
-It also has some other features: <br/>
+It also has some other features: 
+  
 - Message in chat when a player hits an animal entity
 
 ## Contributing
