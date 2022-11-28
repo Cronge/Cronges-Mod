@@ -89,6 +89,7 @@ Currently none
 </details>
   
 <details>
+It also has some other things:
 <summary>Miscellaneous</summary> 
   
 ### Miscellaneous
