@@ -55,7 +55,9 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
 <summary>Items</summary>
 
 ### Items
-
+  - **Ruby-related**
+    - Ruby
+  
   - **Weapons**
     - Dummy Sword
 
@@ -69,9 +71,12 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
 <summary>Blocks</summary>
  
 ### Blocks
+  - **Ruby-related**
+    - Ruby Ore & Deepslate Ruby Ore
+    - Ruby Block
   
-  - Jump Block
-  - 
+  - **Other**
+    - Jump Block
   
 </details>
 
