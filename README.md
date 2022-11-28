@@ -53,7 +53,6 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
 <!-- Dropdowns -->
 <details>
 <summary>Items</summary>
-
 ### Items
   - **Ruby-related**
     - Ruby
@@ -69,7 +68,6 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
 
 <details>
 <summary>Blocks</summary>
- 
 ### Blocks
   - **Ruby-related**
     - Ruby Ore & Deepslate Ruby Ore
@@ -81,14 +79,13 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
 </details>
 
 <details>
-<summary>Entities</summary>
-  
+<summary>Entities</summary> 
 ### Entities
   - Currently none 
   
 </details>
 
-## Contribution
+## Contributing
 Feel free to make forks and PRs!
 
 ## License
