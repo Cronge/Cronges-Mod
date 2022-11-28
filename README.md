@@ -87,7 +87,7 @@ Cronge's Mod features a collection of items, blocks, and entities.
 Currently none 
   
 </details>
-  It also has some other features: 
+It also has some other features: 
   
   - Message in chat when a player hits an animal entity
 
