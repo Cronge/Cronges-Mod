@@ -87,7 +87,7 @@ Cronge's Mod features a collection of items, blocks, and entities.
 Currently none 
   
 </details>
-——
+<p> —— <p/>
 It also has some other things:
   
 <details>
