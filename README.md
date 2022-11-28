@@ -89,7 +89,7 @@ Currently none
 </details>
   It also has some other features: 
   
-  - Message in chat when a player hits an animal entity
+    - Message in chat when a player hits an animal entity
 
 ## Contributing
 Feel free to make forks and PRs!
