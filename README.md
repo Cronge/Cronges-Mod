@@ -48,7 +48,7 @@ A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to i
 *Note: It is also recommended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
 
 ## Features
-Cronge's Mod features a collection of Items, Blocks, and Entities. 
+Cronge's Mod features a collection of items, blocks, and entities. 
 
 <!-- Dropdowns -->
 <details>
@@ -87,6 +87,9 @@ Cronge's Mod features a collection of Items, Blocks, and Entities.
 Currently none 
   
 </details>
+
+### Miscellaneous
+- Message in chat when a player hits an animal entity
 
 ## Contributing
 Feel free to make forks and PRs!
