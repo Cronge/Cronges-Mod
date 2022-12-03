@@ -2,7 +2,7 @@
 
 <!-- Title -->
 # Cronge's Mod 
-Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br/>
+Cronge's Mod is a mod that I created to learn the craft of Minecraft Modding. <br>
 Built with [Fabric](https://fabricmc.net).
 
 <!-- Fancy stuff -->
@@ -31,7 +31,7 @@ Built with [Fabric](https://fabricmc.net).
 
 <!-- Description -->
 
-I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn the basics and make one. <br/>
+I've always been fascinated by mods, and it was an interesting topic to me, so I decided to learn the basics and make one. <br>
 > Watching Kaupenjoe's [Minecraft 1.19 Fabric Modding Tutorials](https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_).
 
 <div>
@@ -42,7 +42,7 @@ I've always been fascinated by mods, and it was an interesting topic to me, so I
 
 **IMPORTANT**: *I do not plan on releasing Cronge's Mod yet, but I might consider releasing it in the future.*
 
-Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer) and [Fabric API](https://github.com/FabricMC/fabric). <br/>
+Cronge's Mod requires [Fabric Loader](https://fabricmc.net/use/installer) and [Fabric API](https://github.com/FabricMC/fabric). <br>
 A tutorial can be found [here](https://www.youtube.com/watch?v=x7gmfib4gHg) to install Fabric Loader and Fabric API.
 
 *Note: It is also recommended to install [Mod Menu](https://github.com/TerraformersMC/ModMenu) and fabric performance mods together with Cronge's Mod to enhance your playing experience.*
